@@ -1,7 +1,10 @@
-Estrutura do MVC
+#MVC
+
+##Estrutura do MVC
 Model: Representa os dados e a lógica de negócios.
 View: Responsável pela interface com o usuário.
 Controller: Intermediário que manipula a lógica entre o Model e a View.
+
 Passo a Passo da Refatoração
 1. Criar o Model
 O Model representará o restaurante e suas operações.
